@@ -4,4 +4,4 @@
 
 ---
 
-Email me at [hello@devmaker.io](Mailto:hello@devmarketer.io)
+Email me at [tausifulhaque212@gmail.com](Mailto:tausifulhaque212@gmail.com)
