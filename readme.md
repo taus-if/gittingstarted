@@ -1,3 +1,7 @@
 #Git-ting stated with Git
 
-#####Hi there!
+####Hi there!
+
+---
+
+Email me at [hello@devmaker.io](Mailto:hello@devmarketer.io)
